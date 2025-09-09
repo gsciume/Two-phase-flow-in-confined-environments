@@ -214,5 +214,8 @@ __marimo__/
 *.xdmf
 *.msh
 
-# Windows to WSL
+# Resultats
+*.csv
+
+#Windows to WSL
 *Zone.Identifier
